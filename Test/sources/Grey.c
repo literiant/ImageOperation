@@ -3,8 +3,8 @@
 #include <string.h>
 
 // 全局变量：图片地址
-const char *INPUT_BMP_PATH = "D:\\Code\\Repository\\ImageOperation\\Test\\BMPimages\\Source\Simple\\0000FF_100-100.bmp"; // 输入BMP文件路径
-const char *OUTPUT_BMP_PATH = "D:\\Code\\Repository\\ImageOperation\\Test\\BMPimages\\Source\\Simple\\Grey_output.bmp";  // 输出BMP文件路径
+const char *INPUT_BMP_PATH = "D:\\Code\\Repository\\ImageOperation\\Test\\BMPimages\\Source\\Simple\\YangWenHao.bmp";   // 输入BMP文件路径
+const char *OUTPUT_BMP_PATH = "D:\\Code\\Repository\\ImageOperation\\Test\\BMPimages\\Source\\Simple\\Grey_output.bmp"; // 输出BMP文件路径
 
 // BMP文件头结构
 #pragma pack(push, 1) // 确保结构体按1字节对齐
